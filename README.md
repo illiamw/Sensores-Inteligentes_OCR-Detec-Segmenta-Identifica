@@ -1,0 +1,1 @@
+# Sensores-Inteligentes_OCR-Detec-Segmenta-Identifica
